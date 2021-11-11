@@ -7,4 +7,3 @@ class Layer:
         
         
     def back_propagation(self, error, learning_rate):
-        another change
